@@ -5,7 +5,7 @@ Empresa: Abstergo Industries
 Responsável: Lucas Tadeu Dutra Miguez
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Dr. João Silva. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos na área financeira de uma empresa farmacêutica.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Lucas Tadeu Dutra Miguez. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos na área financeira de uma empresa farmacêutica.
 
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, são descritas as etapas do projeto:
